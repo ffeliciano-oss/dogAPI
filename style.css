@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 30px;
+    background-color: papayawhip;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+h1{
+    text-decoration: underline;
+    font-style: italic;
+    color: deeppink;
+}
+
+button{
+    font-size: 25px;
+    padding: 12px;
+    border-radius: 20%;
+    background-color: seashell;
+    width: 20%;
+}
+
+button:hover{
+    transform: translateY(-6px);
+    box-shadow: 0 12px 24px #0003;
+    color: cornflowerblue;
+}
+
+#cachorro{
+    border-radius: 20%;
+}
