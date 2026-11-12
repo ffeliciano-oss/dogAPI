@@ -23,6 +23,7 @@ h1{
 h1:hover{
     text-shadow: 0 12px 24px #0003;
     color: rgb(174, 13, 99);
+    font-style: normal;
 }
 
 button{
