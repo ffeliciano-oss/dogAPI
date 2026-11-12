@@ -20,6 +20,11 @@ h1{
     color: deeppink;
 }
 
+h1:hover{
+    text-shadow: 0 12px 24px #0003;
+    color: rgb(174, 13, 99);
+}
+
 button{
     font-size: 25px;
     padding: 12px;
